@@ -1,0 +1,14 @@
+.storybook-select {
+  width: 90%;
+  height: 35px;
+  border-radius: 5px;
+  border: 1px solid #1ea7fd;
+}
+
+.error {
+  border-color: red;
+  background: #fff2f2;
+}
+select:focus {
+  outline: none;
+}
