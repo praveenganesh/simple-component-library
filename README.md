@@ -7,8 +7,8 @@ Components
 
 # How to use this storybook
 
-  - git clone repo-url
-  - cd project
+  - git clone https://github.com/praveenganesh/simple-component-library.git
+  - cd simple-component-library
   - npm install
   - npm run storybook
 
